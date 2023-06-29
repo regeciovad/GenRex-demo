@@ -1,0 +1,87 @@
+Running scans for family njRAT with rule ../rules/njrat.yar
+njRAT family 3368
+TP: 2460
+FN: 908
+### Adload family 705
+TN: 705
+FP: 0
+Acc: .77706
+P: 1.00000
+R: .73040
+F1: .84418
+### Emotet family 14425
+TN: 14425
+FP: 0
+Acc: .94896
+P: 1.00000
+R: .73040
+F1: .84418
+### Lokibot family 4191
+TN: 4190
+FP: 1
+Acc: .87974
+P: .99959
+R: .73040
+F1: .84404
+### Qakbot family 4906
+TN: 4906
+FP: 0
+Acc: .89025
+P: 1.00000
+R: .73040
+F1: .84418
+### Trickbot family 4203
+TN: 4203
+FP: 0
+Acc: .88006
+P: 1.00000
+R: .73040
+F1: .84418
+### Zeus family 2594
+TN: 2593
+FP: 1
+Acc: .84753
+P: .99959
+R: .73040
+F1: .84404
+### HarHar family 655
+TN: 655
+FP: 0
+Acc: .77429
+P: 1.00000
+R: .73040
+F1: .84418
+### Swisyn family 12593
+TN: 12593
+FP: 0
+Acc: .94311
+P: 1.00000
+R: .73040
+F1: .84418
+### Ursnif family 1336
+TN: 1336
+FP: 0
+Acc: .80697
+P: 1.00000
+R: .73040
+F1: .84418
+### all_cleanware family 5069
+TN: 5069
+FP: 0
+Acc: .89237
+P: 1.00000
+R: .73040
+F1: .84418
+### All
+TP: 2460
+FN: 908
+AllTN: 50675
+AllFP: 2
+Acc: .98316
+P: .99918
+R: .73040
+F1: .84390
+908 logs/njRAT.out
+2
+TP 2460 73.04000%
+FP 2 .00300%

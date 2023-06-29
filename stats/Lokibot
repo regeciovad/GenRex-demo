@@ -1,0 +1,87 @@
+Running scans for family Lokibot with rule ../rules/lokibot.yar
+Lokibot family 4191
+TP: 3700
+FN: 491
+### Adload family 705
+TN: 705
+FP: 0
+Acc: .89971
+P: 1.00000
+R: .88284
+F1: .93776
+### Emotet family 14425
+TN: 14425
+FP: 0
+Acc: .97362
+P: 1.00000
+R: .88284
+F1: .93776
+### Qakbot family 4906
+TN: 4906
+FP: 0
+Acc: .94602
+P: 1.00000
+R: .88284
+F1: .93776
+### Trickbot family 4203
+TN: 4203
+FP: 0
+Acc: .94150
+P: 1.00000
+R: .88284
+F1: .93776
+### Zeus family 2594
+TN: 2594
+FP: 0
+Acc: .92763
+P: 1.00000
+R: .88284
+F1: .93776
+### HarHar family 655
+TN: 655
+FP: 0
+Acc: .89867
+P: 1.00000
+R: .88284
+F1: .93776
+### njRAT family 3368
+TN: 3368
+FP: 0
+Acc: .93504
+P: 1.00000
+R: .88284
+F1: .93776
+### Swisyn family 12593
+TN: 12592
+FP: 1
+Acc: .97068
+P: .99972
+R: .88284
+F1: .93764
+### Ursnif family 1336
+TN: 1336
+FP: 0
+Acc: .91116
+P: 1.00000
+R: .88284
+F1: .93776
+### all_cleanware family 5069
+TN: 5068
+FP: 1
+Acc: .94686
+P: .99972
+R: .88284
+F1: .93764
+### All
+TP: 3700
+FN: 491
+AllTN: 49852
+AllFP: 2
+Acc: .99087
+P: .99945
+R: .88284
+F1: .93752
+491 logs/Lokibot.out
+2
+TP 3700 88.28400%
+FP 2 .00400%

@@ -1,0 +1,87 @@
+Running scans for family Adload with rule ../rules/adload.yar
+Adload family 705
+TP: 665
+FN: 40
+### Emotet family 14425
+TN: 14425
+FP: 0
+Acc: .99735
+P: 1.00000
+R: .94326
+F1: .97080
+### Lokibot family 4191
+TN: 4191
+FP: 0
+Acc: .99183
+P: 1.00000
+R: .94326
+F1: .97080
+### Qakbot family 4906
+TN: 4906
+FP: 0
+Acc: .99287
+P: 1.00000
+R: .94326
+F1: .97080
+### Trickbot family 4203
+TN: 4203
+FP: 0
+Acc: .99185
+P: 1.00000
+R: .94326
+F1: .97080
+### Zeus family 2594
+TN: 2594
+FP: 0
+Acc: .98787
+P: 1.00000
+R: .94326
+F1: .97080
+### HarHar family 655
+TN: 655
+FP: 0
+Acc: .97058
+P: 1.00000
+R: .94326
+F1: .97080
+### njRAT family 3368
+TN: 3368
+FP: 0
+Acc: .99017
+P: 1.00000
+R: .94326
+F1: .97080
+### Swisyn family 12593
+TN: 12593
+FP: 0
+Acc: .99699
+P: 1.00000
+R: .94326
+F1: .97080
+### Ursnif family 1336
+TN: 1336
+FP: 0
+Acc: .98040
+P: 1.00000
+R: .94326
+F1: .97080
+### all_cleanware family 5069
+TN: 5069
+FP: 0
+Acc: .99307
+P: 1.00000
+R: .94326
+F1: .97080
+### All
+TP: 665
+FN: 40
+AllTN: 53340
+AllFP: 0
+Acc: .99925
+P: 1.00000
+R: .94326
+F1: .97080
+40 logs/Adload.out
+0
+TP 665 94.32600%
+FP 0 0%

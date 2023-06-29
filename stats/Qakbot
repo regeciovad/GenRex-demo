@@ -1,0 +1,87 @@
+Running scans for family Qakbot with rule ../rules/qakbot.yar
+Qakbot family 4906
+TP: 4857
+FN: 49
+### Adload family 705
+TN: 705
+FP: 0
+Acc: .99126
+P: 1.00000
+R: .99001
+F1: .99496
+### Emotet family 14425
+TN: 14425
+FP: 0
+Acc: .99746
+P: 1.00000
+R: .99001
+F1: .99496
+### Lokibot family 4191
+TN: 4191
+FP: 0
+Acc: .99461
+P: 1.00000
+R: .99001
+F1: .99496
+### Trickbot family 4203
+TN: 4203
+FP: 0
+Acc: .99462
+P: 1.00000
+R: .99001
+F1: .99496
+### Zeus family 2594
+TN: 2594
+FP: 0
+Acc: .99346
+P: 1.00000
+R: .99001
+F1: .99496
+### HarHar family 655
+TN: 655
+FP: 0
+Acc: .99118
+P: 1.00000
+R: .99001
+F1: .99496
+### njRAT family 3368
+TN: 3368
+FP: 0
+Acc: .99407
+P: 1.00000
+R: .99001
+F1: .99496
+### Swisyn family 12593
+TN: 12593
+FP: 0
+Acc: .99719
+P: 1.00000
+R: .99001
+F1: .99496
+### Ursnif family 1336
+TN: 1336
+FP: 0
+Acc: .99214
+P: 1.00000
+R: .99001
+F1: .99496
+### all_cleanware family 5069
+TN: 5069
+FP: 0
+Acc: .99508
+P: 1.00000
+R: .99001
+F1: .99496
+### All
+TP: 4857
+FN: 49
+AllTN: 49139
+AllFP: 0
+Acc: .99909
+P: 1.00000
+R: .99001
+F1: .99496
+49 logs/Qakbot.out
+0
+TP 4857 99.00100%
+FP 0 0%

@@ -1,0 +1,87 @@
+Running scans for family Zeus with rule ../rules/zeus.yar
+Zeus family 2594
+TP: 2444
+FN: 150
+### Adload family 705
+TN: 705
+FP: 0
+Acc: .95453
+P: 1.00000
+R: .94217
+F1: .97022
+### Emotet family 14425
+TN: 14425
+FP: 0
+Acc: .99118
+P: 1.00000
+R: .94217
+F1: .97022
+### Lokibot family 4191
+TN: 4191
+FP: 0
+Acc: .97789
+P: 1.00000
+R: .94217
+F1: .97022
+### Qakbot family 4906
+TN: 4906
+FP: 0
+Acc: .98000
+P: 1.00000
+R: .94217
+F1: .97022
+### Trickbot family 4203
+TN: 4203
+FP: 0
+Acc: .97793
+P: 1.00000
+R: .94217
+F1: .97022
+### HarHar family 655
+TN: 655
+FP: 0
+Acc: .95383
+P: 1.00000
+R: .94217
+F1: .97022
+### njRAT family 3368
+TN: 3368
+FP: 0
+Acc: .97484
+P: 1.00000
+R: .94217
+F1: .97022
+### Swisyn family 12593
+TN: 12593
+FP: 0
+Acc: .99012
+P: 1.00000
+R: .94217
+F1: .97022
+### Ursnif family 1336
+TN: 1335
+FP: 1
+Acc: .96157
+P: .99959
+R: .94217
+F1: .97002
+### all_cleanware family 5069
+TN: 5069
+FP: 0
+Acc: .98042
+P: 1.00000
+R: .94217
+F1: .97022
+### All
+TP: 2444
+FN: 150
+AllTN: 51450
+AllFP: 1
+Acc: .99720
+P: .99959
+R: .94217
+F1: .97002
+150 logs/Zeus.out
+1
+TP 2444 94.21700%
+FP 1 .00100%

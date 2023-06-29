@@ -1,0 +1,87 @@
+Running scans for family Swisyn with rule ../rules/swisyn.yar
+Swisyn family 12593
+TP: 12571
+FN: 22
+### Adload family 705
+TN: 705
+FP: 0
+Acc: .99834
+P: 1.00000
+R: .99825
+F1: .99912
+### Emotet family 14425
+TN: 14425
+FP: 0
+Acc: .99918
+P: 1.00000
+R: .99825
+F1: .99912
+### Lokibot family 4191
+TN: 4191
+FP: 0
+Acc: .99868
+P: 1.00000
+R: .99825
+F1: .99912
+### Qakbot family 4906
+TN: 4906
+FP: 0
+Acc: .99874
+P: 1.00000
+R: .99825
+F1: .99912
+### Trickbot family 4203
+TN: 4203
+FP: 0
+Acc: .99869
+P: 1.00000
+R: .99825
+F1: .99912
+### Zeus family 2594
+TN: 2594
+FP: 0
+Acc: .99855
+P: 1.00000
+R: .99825
+F1: .99912
+### HarHar family 655
+TN: 655
+FP: 0
+Acc: .99833
+P: 1.00000
+R: .99825
+F1: .99912
+### njRAT family 3368
+TN: 3367
+FP: 1
+Acc: .99855
+P: .99992
+R: .99825
+F1: .99908
+### Ursnif family 1336
+TN: 1336
+FP: 0
+Acc: .99842
+P: 1.00000
+R: .99825
+F1: .99912
+### all_cleanware family 5069
+TN: 5069
+FP: 0
+Acc: .99875
+P: 1.00000
+R: .99825
+F1: .99912
+### All
+TP: 12571
+FN: 22
+AllTN: 41451
+AllFP: 1
+Acc: .99957
+P: .99992
+R: .99825
+F1: .99908
+22 logs/Swisyn.out
+1
+TP 12571 99.82500%
+FP 1 .00200%

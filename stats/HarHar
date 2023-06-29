@@ -1,0 +1,87 @@
+Running scans for family HarHar with rule ../rules/harhar.yar
+HarHar family 655
+TP: 655
+FN: 0
+### Adload family 705
+TN: 705
+FP: 0
+Acc: 1.00000
+P: 1.00000
+R: 1.00000
+F1: 1.00000
+### Emotet family 14425
+TN: 14425
+FP: 0
+Acc: 1.00000
+P: 1.00000
+R: 1.00000
+F1: 1.00000
+### Lokibot family 4191
+TN: 4191
+FP: 0
+Acc: 1.00000
+P: 1.00000
+R: 1.00000
+F1: 1.00000
+### Qakbot family 4906
+TN: 4906
+FP: 0
+Acc: 1.00000
+P: 1.00000
+R: 1.00000
+F1: 1.00000
+### Trickbot family 4203
+TN: 4203
+FP: 0
+Acc: 1.00000
+P: 1.00000
+R: 1.00000
+F1: 1.00000
+### Zeus family 2594
+TN: 2594
+FP: 0
+Acc: 1.00000
+P: 1.00000
+R: 1.00000
+F1: 1.00000
+### njRAT family 3368
+TN: 3368
+FP: 0
+Acc: 1.00000
+P: 1.00000
+R: 1.00000
+F1: 1.00000
+### Swisyn family 12593
+TN: 12593
+FP: 0
+Acc: 1.00000
+P: 1.00000
+R: 1.00000
+F1: 1.00000
+### Ursnif family 1336
+TN: 1336
+FP: 0
+Acc: 1.00000
+P: 1.00000
+R: 1.00000
+F1: 1.00000
+### all_cleanware family 5069
+TN: 5069
+FP: 0
+Acc: 1.00000
+P: 1.00000
+R: 1.00000
+F1: 1.00000
+### All
+TP: 655
+FN: 0
+AllTN: 53390
+AllFP: 0
+Acc: 1.00000
+P: 1.00000
+R: 1.00000
+F1: 1.00000
+0 logs/HarHar.out
+0
+TP 655 100.00000%
+FP 0 0%

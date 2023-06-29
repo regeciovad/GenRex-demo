@@ -1,0 +1,87 @@
+Running scans for family Trickbot with rule ../rules/trickbot.yar
+Trickbot family 4203
+TP: 3166
+FN: 1037
+### Adload family 705
+TN: 705
+FP: 0
+Acc: .78871
+P: 1.00000
+R: .75327
+F1: .85926
+### Emotet family 14425
+TN: 14425
+FP: 0
+Acc: .94433
+P: 1.00000
+R: .75327
+F1: .85926
+### Lokibot family 4191
+TN: 4191
+FP: 0
+Acc: .87645
+P: 1.00000
+R: .75327
+F1: .85926
+### Qakbot family 4906
+TN: 4906
+FP: 0
+Acc: .88615
+P: 1.00000
+R: .75327
+F1: .85926
+### Zeus family 2594
+TN: 2594
+FP: 0
+Acc: .84743
+P: 1.00000
+R: .75327
+F1: .85926
+### HarHar family 655
+TN: 655
+FP: 0
+Acc: .78653
+P: 1.00000
+R: .75327
+F1: .85926
+### njRAT family 3368
+TN: 3367
+FP: 1
+Acc: .86289
+P: .99968
+R: .75327
+F1: .85914
+### Swisyn family 12593
+TN: 12593
+FP: 0
+Acc: .93825
+P: 1.00000
+R: .75327
+F1: .85926
+### Ursnif family 1336
+TN: 1336
+FP: 0
+Acc: .81278
+P: 1.00000
+R: .75327
+F1: .85926
+### all_cleanware family 5069
+TN: 5069
+FP: 0
+Acc: .88815
+P: 1.00000
+R: .75327
+F1: .85926
+### All
+TP: 3166
+FN: 1037
+AllTN: 49841
+AllFP: 1
+Acc: .98079
+P: .99968
+R: .75327
+F1: .85914
+1037 logs/Trickbot.out
+1
+TP 3166 75.32700%
+FP 1 .00200%

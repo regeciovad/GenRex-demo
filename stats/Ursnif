@@ -1,0 +1,87 @@
+Running scans for family Ursnif with rule ../rules/ursnif.yar
+Ursnif family 1336
+TP: 767
+FN: 569
+### Adload family 705
+TN: 705
+FP: 0
+Acc: .72121
+P: 1.00000
+R: .57410
+F1: .72942
+### Emotet family 14425
+TN: 14425
+FP: 0
+Acc: .96389
+P: 1.00000
+R: .57410
+F1: .72942
+### Lokibot family 4191
+TN: 4191
+FP: 0
+Acc: .89705
+P: 1.00000
+R: .57410
+F1: .72942
+### Qakbot family 4906
+TN: 4906
+FP: 0
+Acc: .90884
+P: 1.00000
+R: .57410
+F1: .72942
+### Trickbot family 4203
+TN: 4203
+FP: 0
+Acc: .89727
+P: 1.00000
+R: .57410
+F1: .72942
+### Zeus family 2594
+TN: 2594
+FP: 0
+Acc: .85521
+P: 1.00000
+R: .57410
+F1: .72942
+### HarHar family 655
+TN: 655
+FP: 0
+Acc: .71421
+P: 1.00000
+R: .57410
+F1: .72942
+### njRAT family 3368
+TN: 3368
+FP: 0
+Acc: .87903
+P: 1.00000
+R: .57410
+F1: .72942
+### Swisyn family 12593
+TN: 12593
+FP: 0
+Acc: .95914
+P: 1.00000
+R: .57410
+F1: .72942
+### all_cleanware family 5069
+TN: 5069
+FP: 0
+Acc: .91116
+P: 1.00000
+R: .57410
+F1: .72942
+### All
+TP: 767
+FN: 569
+AllTN: 52709
+AllFP: 0
+Acc: .98947
+P: 1.00000
+R: .57410
+F1: .72942
+569 logs/Ursnif.out
+0
+TP 767 57.41000%
+FP 0 0%
